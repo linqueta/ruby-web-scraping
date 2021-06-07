@@ -1,0 +1,9 @@
+/config/*
+TODO
+/coverage/*
+.rspec_status
+*.gem
+/spec/dummy/tmp/*
+/spec/dummy/log/*
+.bundle/*
+*.ruby-*
